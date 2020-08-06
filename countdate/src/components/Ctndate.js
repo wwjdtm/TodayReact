@@ -5,8 +5,7 @@ import React, {Component} from 'react';
 class Ctndate extends Component{
   
   render(){
-    
-    var ddday;
+   
     var d_day=[];
     var d,h,m,s;
     var date = this.props.date;
